@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #İlk Pythonum SERKAN
-
+#Bu Uygulama Tamamen Eğitim Amaçlıdır. 
 #scapy kütüphanesini çağırdım.
 from scapy.all import *
 from sys import stdout
@@ -18,7 +18,7 @@ def SYN_Flood(dstIP,dstPort,say):
 def info():
 
 	print ("***********************************************")
-	print ("*        Serkan YALCINER            		  *")
+	print ("    *Bu Uygulama Tamamen Eğitim Amaçlıdır.    *")
 	print ("***********************************************")
 	print ("* İlk Python4 SYN Flood Tool DOS Saldırısı    *")
 	print ("***********************************************")
