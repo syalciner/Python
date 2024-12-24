@@ -1,1 +1,0 @@
-Place Dynatrace OpenAPI specs gathered from the API explorers here for conversion.
